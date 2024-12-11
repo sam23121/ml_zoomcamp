@@ -1,0 +1,4 @@
+numpy==1.23.2
+Pillow
+requests
+https://github.com/alexeygrigorev/tflite-aws-lambda/raw/main/tflite/tflite_runtime-2.14.0-cp310-cp310-linux_x86_64.whl
